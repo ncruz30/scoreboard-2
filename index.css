@@ -1,0 +1,55 @@
+body {
+    width: 1000px ;
+    margin: auto;
+    background-color: #241773 ;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+#home{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    margin-top: 70px;
+    color: #9E7C0C ;
+    text-align: center;
+   
+}
+#guest{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    margin-top: 70px;
+    color: #9E7C0C ;
+    text-align: center;
+}
+
+#homescore {
+    font-family: Roboto;
+   color: #9E7C0C ;
+   font-size: 50px;
+   text-align: center;
+   background-color: black;
+   padding: 50px;
+    
+}
+
+#guestscore {
+    font-family: Roboto;
+     color: #9E7C0C ;
+     font-size: 50px;
+     text-align: center;
+     background-color: black;
+     padding: 50px;
+}
+
+button{
+    color: white;
+    font-size: 18px;
+    background-color: black;
+    margin: 20px 10px 10px 10px;
+}
+
+
